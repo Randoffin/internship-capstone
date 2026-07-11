@@ -13,3 +13,8 @@ Keep code modular and readable.
 Follow JavaScript best practices.
 Use Conventional Commits for all Git commits.
 Update the README when major changes are made.
+
+## Git Workflow
+Stage files before committing.
+Use Conventional Commits.
+Push changes regularly.
