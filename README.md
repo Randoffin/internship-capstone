@@ -1,8 +1,12 @@
+# Internship Capstone
+
+A capstone project developed during an internship program.
+
 ## Tech Stack
 
 Node.js
 Git
-Visual Studio code
+Visual Studio Code
 Claude Code (or Cursor)
 
 ## Project Structure
